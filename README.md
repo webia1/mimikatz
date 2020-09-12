@@ -1,4 +1,4 @@
-# mimikatz
+# mimikatz - Security Checks, Pen Tests & more
 
 **`mimikatz`** is a tool I've made to learn `C` and make somes experiments with Windows security.
 
